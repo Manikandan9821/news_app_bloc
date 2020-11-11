@@ -1,0 +1,3 @@
+enum NetWorkConnection {
+  IsConnectionAvailable, IsConnectionNotAvailable
+}
