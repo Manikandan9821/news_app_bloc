@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-const url = "https://newsapi.org/v2/top-headlines?country=in&apiKey=879fe6d77dd742afa671e61f3c2c8506";
+const url = "https://newsapi.org/v2/top-headlines?country=in&apiKey=Your Api Key";
 
  final borderRadius = BorderRadius.circular(20.0);
 
