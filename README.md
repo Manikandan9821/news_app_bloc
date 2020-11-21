@@ -1,4 +1,5 @@
 # news_app_bloc
+# Simple news app using Bloc state management 
 
 A new Flutter application.
 
